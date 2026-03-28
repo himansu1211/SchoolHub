@@ -1,6 +1,6 @@
 # 🚀 SchoolHub: Next-Gen Educational OS
 
-**SchoolHub** is a high-performance, futuristic school management system built with React, Tailwind CSS, and Firebase. It features a sophisticated "Glassmorphism" UI, real-time data syncing, and a robust permission-based architecture.
+**SchoolHub** is a high-performance, futuristic school management system built with React, Tailwind CSS, and Firebase. It features real-time data syncing, and a robust permission-based architecture.
 
 ---
 
